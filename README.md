@@ -8,5 +8,5 @@ To help adhere to these rules, some tools are available to automatically catch, 
 
 ## Language and Framework Style Guides
 
-1.  [Ruby](https://github.com/passworks/style-guide/ruby.md)
-2.  [Rails](https://github.com/passworks/style-guide/rails.md)
+1.  [Ruby](https://github.com/passworks/style-guide/blob/master/ruby.md)
+2.  [Rails](https://github.com/passworks/style-guide/blob/master/rails.md)
